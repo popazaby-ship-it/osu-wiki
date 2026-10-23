@@ -83,57 +83,57 @@
 
 Для этого стиля используется сенсорный монитор, экран ноутбука или планшета для передвижения курсора и нажатий.
 
-Чтобы двигать курсор, игроки на сенсорном экране касаются экрана их устройства пером или пальцем там, где они хотят чтобы их курсор был. Как итог, курсор будто бы "прыгает" между локациями нажатий.
+Чтобы двигать курсор, игроки на сенсорном экране (тачскрине) касаются экрана их устройства пером или пальцем там, где они хотят чтобы их курсор был. Как итог, курсор будто бы "прыгает" между локациями нажатий.
 
-When a touchscreen player taps the screen, their device will simultaneously move the cursor to that point, as well as send a mouse input. Thus, to tap beats, follow sliders, and spin spinners, touchscreen players will only touch hit objects when they want the hit object to be hit.
+Когда игроки с сенсорным экраном нажимают на него, их устройство немедленно переместит курсор в точку касания и отправит сигнал клика мыши. То есть, для нажатий по кругам, ведения мячей слайдера и прокоручивания спиннера игроки с сенсорным экраном буквально касаются игровых объектов, по которым хотят нажать.
 
-This play style may feel similar to playing [osu!stream](/wiki/osu!stream) due to the act of touching the screen directly rather than moving a cursor.
+Этот стиль может напонимать игру в [osu!stream](/wiki/osu!stream), так как в обоих вариантах для ввода используются касания по экрану.
 
 ::: alert-notice
-**Notice**
-The key overlay shows touch input as `M1`.
+**Заметьте:**
+На панели нажатий касание по тачскрину отображается как `M1`.
 :::
 
-### Touchscreen and keyboard
+### Тачскрин с клавиатурой
 
-Touchscreen and keyboard is a play style uses a keyboard for key inputs, and touchscreen device of some sort to navigate the in-game cursor; it is a play style most often adopted by touchscreen players who cannot perform streams using only the touchscreen.
+Тачскрин с клавиатурой — стиль игры, в котором клавиатура используется для нажатий, и какое-либо сенсорное устройство для передвижения курсора; этот стиль игры обычно используют игроки, которым трудно проходить стримы, используя только тачскрин.
 
-### Other styles
+### Другие стили
 
-- **Laptop touchpad/trackpad**: While this method is possible, most players prefer not to use a trackpad because of the extreme difficulty involved. Specifically, players argue that controlling the cursor movement on the limited space of the laptop touchpad/trackpad is clunky, slow, and creates a lot of friction. The trackpad is used to navigate the in-game cursor.
-- **Joystick**: A creative way to control the cursor. This play style sees the player hold and move a joystick around to move the in-game cursor and — depending on player's joystick design — taps using the trigger/face buttons of the joystick, or with the keyboard keys to register the beats. It is widley-regarded as a sort of "challenge" play style due to the obvious drawbacks and sheer skill required to control the joystick movement.
-- **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
-- **Gamepad**: Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
-
+- **Тачпад/трекпад ноутбука**: Те, кто используют этот метод, больше предпочитают не использовать трекпад из-за связанных с ним сложностей. В частности, игроки удтверждают, что контролирование движения курсора на ограниченном трекпаде/тачпаде ноутбука неудобно, медленно и создает трение. Трекпад используется для движений курсора.
+- **Джойстик**: Креативный способ контролирования курсора. В этом стиле игрок держит и двигает джойстик для передвижения курсора и — в зависимости от вида джойстика — использует лицевые/задние кнопки джойстика клавиатуру для нажатий. Этот способ многие игроки считают "испытанием" из-за очевидных недостатков и невероятного мастерства, требуемого для хороших результатов.
+- **Металлические пластины**: Это особый стиль, который заменяет стандартную клавиатуру для нажатий. Этот способ создал ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/geckogates) и требует знаний в областях электроники и проводки. Игрок прикрепляет к пальцам провода (которые привязаны к кнопкам клавиатуры `Z` и `X`) и касается металлических пластин для регистрации нажатий.
+- **Геймпад**: Как и джойстик, это креативный и нестандартный способ игры в osu!. В зависимости от вида контроллера, игрок может использовать встроенный в джойстик трекпад, стик управления или крестовину для управления курсором. Некоторым игрокам удобно нажимать кнопки контроллера для нажатий, а другим — кнопки клавиатуры.
+   
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-### Keyboard
+### Клавиатура
 
-Keyboard was once the *only* way to play osu!taiko until other playing methods were supported over time.
+Раньше, клавиатура была единственным способом игры в osu!taiko, пока не стала появляться поддержка все большего количества стилей.
 
-Simply, the player would press the assigned keyboard keys to hit the drum parts. By default, `X`/`C` were for the drum centre (Red) and `Z`/`V` were for the drum rim (Blue).
+Игрок должен нажимать кнопку, привязанную к нужному удару барабана. По умолчанию, кнопки `X`/`C` отвечают за удар по центру (красный), а `Z`/`V` — за внешний удар (синий).
 
-There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum centre (e.g. K in KDDK for drum rim, and D for the drum centre).
+В этом стиле могут быть разные раскладки клавиш на клавиатуре: КДДК (стандарт тайко, или СККС) или ДДКК/ККДД (или ККСС/ССКК). Буквы представляют собой вид удара по барабану (например, в КДДК К означает внешний удар, а Д — центральный).
 
 ::: alert-notice
-**Notice**
-For key-binding, the default is `Z`, `X`, `C`, and `V` (KDDK, or BRRB).
+**Заметьте:**
+По умолчанию используются клавиши `Z`, `X`, `C` и `V` (КДДК, или СККС).
 :::
 
-### Taiko controller
+### Контроллер тайко
 
-A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
+Контроллер тайко — это стандартный стиль и контроллер в серии игр [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) в США).
 
 ::: alert-notice
-**Notice**
-Some skilled players who play using a Taiko controller may create theirs from scratch while others purchase theirs via retail or online stores.
+**Заметьте:**
+Некоторые опытные игроки, испольщующие контроллер тайко, создают свои с нуля, в то время как другие покупают их в магазинах.
 :::
 
-Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the centre (Red) or rim of the drum (Blue) to register the note based on where it is hit.
+Игроки, использующие контроллер тайко держат в каждой руке по тайко/барабанной палке и бьют по центру (красный) или по краю (синий) барабана, в зависимости от нужной ноты.
 
 ::: alert-notice
-**Notice**
-Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector, though this may increase latency.
+**Заметьте:**
+Большинство контроллеров тайко подключаются к компьютеру с помощью Bluetooth-адаптера, если нет USB-кабеля, однако это может увеличить задержку.
 :::
 
 ### Other styles
