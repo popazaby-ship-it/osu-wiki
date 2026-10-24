@@ -13,7 +13,7 @@
 Многие считают этот способ игры сложнейшим, из-за чего сторонники стиля "только мышь", которые занимают высокие места в общих рейтингах, уважаются игроками.
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 На панели нажатий левый и правый клик отображается как `M1` и `M2` соответственно.
 :::
 
@@ -24,20 +24,20 @@
 Многие игроки считали этот стиль шуточным, пока в мае 2013 года канадский игрок ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) не начал показывать отличные результаты на таких ценимых и популярных картах, как [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) и [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823), играя с помощью двух мышей.
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 Игроки стиля "двойная мышь" нередко прикрепляют свою мышь, используемую для нажатий, к столу с помощью изоленты.
 :::
 
 ### Мышь с клавиатурой
 
-Мышь с клавиатурой (англ. Mouse and keyboard) — самый популярный стиль игры в osu!, ведь он требует самой базовой компьютерной периферии и меньше нагружает руку с мышью.
+Мышь с клавиатурой — самый популярный стиль игры в osu!, ведь он требует самой базовой компьютерной периферии и меньше нагружает руку, в которой игрок держит мышь.
 
 Сторонники стиля "мышь с клавиатурой" играют почти также, как и игроки "только мыши". Единственное их отличие в том, что в "мыши с клавиатурой" для нажатий используются 2 кнопки на клавиатуре (`Z` и `X` по умолчанию) вместо нажатий на мышь.
 
 Некоторые игроки для нажатий используют только клавиатуру, в то время как другие меняются на нее только во время стримов (моменты, требующие очень быстрых нажатий по линии из игровых объектов), а в основном используют мышь.
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 На панели нажатий кнопки клавиатуры отображаются как `K1` и `K2`.
 :::
 
@@ -46,14 +46,14 @@
 ![](/wiki/shared/Osu!tablet.jpg "osu!tablet (графический планшет от osu!)")
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 Этот стиль требует наличия у игрока [графического планшета](/wiki/Gameplay/Input_device/Graphics_tablet).
 :::
 
 Игроки стиля "только графический планшет" водят стилусом по графическому планшету для передвижения курсора, а клики совершают с помощью нажатия стилусом по поверхности планшета.
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 На панели кликов нажатия по графическому планшету всегда отображаются как `M1`.
 :::
 
@@ -62,14 +62,14 @@
 Игроки считают, что проходить стримы, используя только одну кнопку, почти невозможно на высоком значении ударов в минуту. Таким образом, для стримов сторонники стиля "только графический планшет" должны поочередно использовать нажатия по планшету и одну вторичную клавишу нажатия (обычно на планшете или клавиатуре). Этот стиль и называют *Тап-икс* (англ. Tapx).
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 Так как нажатие стилуса по плашнету считается за `M1`, работать будет только вторичное нажатие, за которое часто отвечает клавиша `X`.
 :::
 
 ### Графический планшет с клавиатурой
 
 ::: alert-notice
-**Заметьте**
+**Примечание**
 Этот стиль требует наличия у игрока графического планшета.
 :::
 
@@ -90,7 +90,7 @@
 Этот стиль может напонимать игру в [osu!stream](/wiki/osu!stream), так как в обоих вариантах для ввода используются касания по экрану.
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 На панели нажатий касание по тачскрину отображается как `M1`.
 :::
 
@@ -116,7 +116,7 @@
 В этом стиле могут быть разные раскладки клавиш на клавиатуре: КДДК (стандарт тайко, или СККС) или ДДКК/ККДД (или ККСС/ССКК). Буквы представляют собой вид удара по барабану (например, в КДДК К означает внешний удар, а Д — центральный).
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 По умолчанию используются клавиши `Z`, `X`, `C` и `V` (КДДК, или СККС).
 :::
 
@@ -125,86 +125,86 @@
 Контроллер тайко — это стандартный стиль и контроллер в серии игр [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) в США).
 
 ::: alert-notice
-**Заметьте:**
+**Примечание:**
 Некоторые опытные игроки, испольщующие контроллер тайко, создают свои с нуля, в то время как другие покупают их в магазинах.
 :::
 
 Игроки, использующие контроллер тайко держат в каждой руке по тайко/барабанной палке и бьют по центру (красный) или по краю (синий) барабана, в зависимости от нужной ноты.
 
 ::: alert-notice
-**Заметьте:**
-Большинство контроллеров тайко подключаются к компьютеру с помощью Bluetooth-адаптера, если нет USB-кабеля, однако это может увеличить задержку.
+**Примечание:**
+Большинство контроллеров тайко могут подключаться к компьютеру с помощью Bluetooth-адаптера, если нет USB-кабеля, однако это может увеличить задержку.
 :::
 
 ### Other styles
 
-- **Gamepad**: A gamepad is one of the possible play-styles in the various console variations of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue).
-
+- **Геймпад**: Геймпад — это один из возможных стилей игры в различных консольных версиях игр серии Taiko no Tatsujin (включая Taiko Drum Master). Игроки используют лицевые кнопки (правый Дон, или правый красный), крестовину (левый Дон, или левый красный) и верхние кнопки (левый/правый Кату, или левый/правый синий).
+  
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 
-### Keyboard
+### Клавиатура
 
-A keyboard is the most commonly used and default play style for osu!catch.
+Клавиатура — это самый популярный и стандартный способ игры в osu!catch.
 
-To play with a keyboard, players press the left and right arrow keys to move the catcher and hold down `leftShift` to dash.
+Для игры с клавиатурой, игроки используют левую и правую клавиши со стрелками для передвижения ловца и удерживают `leftShift` для рывка.
 
-It is possible to edit the keys used; some players enjoy `A`/`D` for movement and the spacebar or `rightShift` to dash.
+Раскладку клавиш можно поменять; некоторым игрокам нравится использовать кнопки `A`/`D` для передвижения и пробел или `rightShift` для рывка.
 
-The key overlay shows the arrow keys input as `L` and `R` and the dash button as `D`.
+В панели нажатий клавиши со стрелками отображаются как `L` и `R`, а рывок — как `D`.
 
-### Keyboard and mouse
+### Клавиатура с мышью
 
-Keyboard and mouse is a minor alternative play style of keyboard, in which players can dash using mouse clicks instead. Though some players prefer the reverse and prefer to control the left and right movements by using the left/right mouse buttons and activate dashes with the keyboard.
+Клавиатура с мышью — это второстепенная альтернатива игры с клавиатурой, в которой для рывка игроки используют нажатия на мышь. Несмотря на это, некоторые игроки предпочитают делать обратное и контролировать движения ловца используя левую/правую кнопки мыши, а использовать рывок — с помощью клавиатуры.
 
-### Joystick
+### Джойстик
 
-Using a joystick to control the catcher is a play style for players who are used to pixel-old arcade cabinets' control scheme.
+Использование джойстика для контроля над ловцом — это стиль игры для тех игроков, кто предпочитает схему управления старых игровых автоматов.
 
-Players move the head of the joystick and press the face button, trigger, or keyboard key to dash.
+Игроки двигают рукоять джойстика для движения ловца и нажимают на лицевые кнопки, курок или клавишу клавиатуры для рывка.
 
-### Gamepad
+### Геймпад
 
-Using a gamepad to control the catcher is a play style for players who prefer the feeling of a particular D-pad or control stick as opposed to a keyboard.
+Использование геймпада для контролирования ловца — это стиль игры для игроков, что предпочитают тактильные ощущения от крестованы или стика управления, в отличии от клавиатуры.
 
-To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the catcher.
+Для движения ловца влево и вправо, некоторые игроки предпочитают нажимать соответствующие кнопки на крестовине их геймпада, в то время как другим нравится использовать стик управления. К тому же, из-за широкого ряда кнопок на геймпаде игроки могут использвать курки, бамперы или другие кнопки управления для контролирования ловца.
 
-To dash, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks.
+Для рывка, большинство игроков используют одну из лицевых кнопок на их геймпаде. Несмотря на это, некоторые предпочитают использовать курки, бамперы или стики управления.
 
-### Other styles
+### Другие стили
 
-- **Mouse-only**: Mouse-only is a niche play style in which players control all movements and dashes from the catcher solely through mouse inputs. Though this is only an option available on computer mice with `M4` and `M5` buttons (which are typically found the left-hand side of the mouse).
-
+- **Только мышь**: Только мышь — это непопулярный стиль игры, в котором игроки контролируют все движения и рывки исключительно с помощью кнопок мыши. Тем не менее, этот способ доступен только на компьютерных мышах с кнопками `M4` и `M5` (которые можно найти на левой части мыши).
+  
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
-### Keyboard
+### Клавиатура
 
 ::: alert-notice
-**Notice**
-For more information about mechanical keyboards, see this [external guide for mechanical keyboards](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).
+**Примечание:**
+Для большей информации о механических клавиатурах, см. [стороннюю статью о механических клавиатурах](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).
 :::
 
-Keyboard was once the *only* way to play osu!mania until other play methods was supported over time.
+Раньше клавиатура была *единственным* способом игры в osu!mania, пока не стала появляться поддержка всё большего кол-ва стилей.
 
-To play with a keyboard, players would press down the keys respective to their placement on the in-game keyboard. By default these keys are `D`, `F`, `J`, and `K`. The advantage of this play style is that it can accommodate to basically all the keys settings.
+Для игры с клавиатурой, игроки должны нажимать клавиши в соответствии с их расположением на виртуальной клавиатуре в игре. По умолчанию это клавиши `D`, `F`, `J` и `K`. Преимущество этого стиля игры в том, что его можно крайне гибко настраивать.
 
-### Arcade controller
+### Аркадный контроллер
 
-Arcade controllers from other rhythm games such as DJMAX, O2Jam, Beatmania IIDX, etc. are a play-style tuned for seasoned veterans at conveyor-type rhythm games.
+Аркадные контроллеры из других ритм игр, таких как DJMAX, O2Jam, Beatmania IIDX и т. д. представляют собой стиль игры ориентированный на опытных ветеранов ритм-игр конвейерного типа.
 
 ::: alert-notice
-**Notice**
-Since the use of 8 Keys requires the mapper's decision or the use of game modifiers, most players owning these arcade controllers can handle up to 7 keys (max default) and 1 special.
+**Примечание**
+Поскольку использование 8 клавиш зависит от решения создателя карты или использования игровых модификаторов, большинство владельцев аркадных контроллеров могут играть не более чем на 7 клавишах (максимум по умолчанию) и одной специальной.
 :::
 
-### Dance pad
+### Танцевальная платформа
 
-Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) (DDR) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) (PIU) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi–well known, community-driven clone of both of these games).
+Танцевальная платформа — это контроллер для таких серий игр, как [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) (DDR), и [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) (PIU). ([StepMania](https://wikipedia.org/wiki/StepMania) является относительно популярным клоном этих игр, развимаемым сообществом).
 
-To play with a dance pad, players "dance" on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Centre. Some 9 panel pads also exist for the purpose of compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
+Для игры с танцевальной платформе, игроки как бы "танцуют" для ввода команд. Платформа DDR имеет 4 панели: вверх, вниз, влево и вправо. Одиночная платформа DDR к тому же имеет верхнюю левую и верхнюю правую панели. Платформа PIU имеет 5 панелей: верхняя левая, верхняя правая, нижняя левая, нижняя правая и центральная. К тому же, существуют панели с 9 платформами для совместимости с обеими играми не меняя платформу. Обычные платформы DDR и PIU часто используются в режиме игры на 2 платформах в соответствующих играх, где один игрок использует сразу 2 ковра для игры. Автоматы серии DDR Solo создавались только для одиночной игры, так что они обычно не раздвоены.
 
-A major drawback with using a dance pad is that it can be hard to hit multiple keys at once. To hit 4 notes on a DDR pad, you would either have to use your hands along with your feet to hit them, or position your feet on 2 panels at once.
+Основной недостаток использования танцевальной платформы в том, что нажатие нескольких панелей сразу может быть проблематичным. Чтобы использовать сразу 4 панели, нужно либо нажимать панели руками вместе с ногами, либо ставить стопы на 2 ппанели сразу.
 
-Another drawback is that osu!mania maps may have been designed without dance game chart flow in mind, limiting the amount of charts you can (comfortably) dance to. Dance games are often charted with dancing chart flow. One big rule of charting for a dance game like DDR is mostly being able to switch feet for every note (with some exceptions). Since some osu!mania maps don't really follow those rules, which can make it really awkward to play a lot of maps on a dance pad.
+Еще одним недостатком является то, что карты osu!mania Another drawback is that osu!mania maps may have been designed without dance game chart flow in mind, limiting the amount of charts you can (comfortably) dance to. Dance games are often charted with dancing chart flow. One big rule of charting for a dance game like DDR is mostly being able to switch feet for every note (with some exceptions). Since some osu!mania maps don't really follow those rules, which can make it really awkward to play a lot of maps on a dance pad.
 
 ### Other styles
 
